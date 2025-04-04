@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Hemanth Koti</h1>
 
 <div align="center">
-  <img src="https://github.com/hkoti/hkoti/blob/main/Banner.png" alt="DevOpsShack Banner">
+  <img src="https://github.com/hkoti/hkoti/blob/main/Banner.png" alt="hkoti Banner">
 </div>
 
 <h3 align="center">A passionate DevOps Engineer from India, working in the Corporate IT Sector.</h3>
